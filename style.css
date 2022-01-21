@@ -1,0 +1,13 @@
+/* This file is linked to index.html */
+#recipeList {
+    color: white;
+    background-color: red;
+}
+.steps {
+    color: blueviolet;
+    background-color: gray;
+}
+.Ingredients {
+    color: gray;
+    background-color: black;
+}
